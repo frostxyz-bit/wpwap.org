@@ -115,3 +115,21 @@ code {
   text-decoration: none;
   display: inline-block;
 }
+
+img {
+	width: 50%;
+	height: auto;
+  }
+
+#left {
+	text-align: left;
+}
+
+#center {
+	text-align: center;
+}
+  
+
+#right {
+	text-align: right;
+}
