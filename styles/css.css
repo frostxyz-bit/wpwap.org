@@ -1,1 +1,117 @@
+@font-face {
+    font-family: Tahoma, sans-serif;
+    font-weight: normal;
+    font-style: normal;
 
+}
+
+html {
+	scroll-behavior: smooth;
+	font-size: 24pt;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+	min-width: 320px;
+	min-height: 100vh;
+	line-height: 1.0;
+	word-wrap: break-word;
+	overflow-x: hidden;
+	background-color: #FFFFFF;
+	scrollbar-width: none;
+}
+
+strong {
+	color: inherit;
+	font-weight: bolder;
+}
+
+code {
+	font-family: 'Lucida Console', 'Courier New', monospace;
+	font-weight: normal;
+	text-indent: 0;
+	letter-spacing: 0;
+	font-size: 0.9em;
+	margin: 0 0.25em;
+	padding: 0.25em 0.5em;
+	background-color: #363636;
+	border-radius: 0.25em;
+	color: #080808
+}
+
+#header1 {
+	text-align: center;
+	color: #000000;
+	font-family: Tahoma, sans-serif;
+	letter-spacing: 0.02rem;
+	width: calc(100% + 0.05rem);
+	font-size: 0.875em;
+	line-height: 1.5;
+	font-weight: 400;
+	padding: 1em;
+}
+
+
+#para1 {
+	text-align: center;
+	color: #000000;
+	font-family: Tahoma, sans-serif;
+	letter-spacing: 0.02rem;
+	width: calc(100% + 0.05rem);
+	font-size: 0.55em;
+	line-height: 1.5;
+	font-weight: 400;
+	padding: 1em;
+}
+
+#para2 {
+	text-align: center;
+	color: #000000;
+	font-family: Tahoma, sans-serif;
+	letter-spacing: 0.02rem;
+	width: calc(100% + 0.05rem);
+	font-size: 0.45em;
+	line-height: 1.5;
+	font-weight: 400;
+	padding-right: 10em;
+	padding-left: 10em;
+}
+
+#header2 {
+	text-align: center;
+	color: #000000;
+	font-family: Tahoma, sans-serif;
+	letter-spacing: 0.02rem;
+	width: calc(100% + 0.05rem);
+	font-size: 0.65em;
+	line-height: 1.5;
+	font-weight: 400;
+	padding: 1em;
+}
+
+
+#links {
+  font-family: Tahoma, sans-serif;
+  letter-spacing: 0.02rem;
+  width: calc(100% + 0.05rem);
+  font-size: 0.55em;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #FFFFFF;
+  color: black;
+  padding: 15px, 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
