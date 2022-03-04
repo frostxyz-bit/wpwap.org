@@ -126,7 +126,7 @@ code {
   font-weight: 400;
   background-color: #FFFFFF;
   color: black;
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -163,7 +163,7 @@ ul {
 	font-family: Tahoma, sans-serif;
 	letter-spacing: 0.02rem;
 	width: calc(100% + 0.05rem);
-	font-size: 0.55em;
+	font-size: 0.65em;
 	line-height: 1.5;
 	font-weight: 400;
 	padding: 0.5em;
@@ -175,7 +175,7 @@ ul li {
 	font-family: Tahoma, sans-serif;
 	letter-spacing: 0.02rem;
 	width: calc(100% + 0.05rem);
-	font-size: 0.55em;
+	font-size: 0.65em;
 	line-height: 1.5;
 	font-weight: 400;
 	padding: 0.5em;
