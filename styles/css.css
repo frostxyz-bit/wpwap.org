@@ -157,7 +157,19 @@ img {
 }
 
 
-#ul {
+ul {
+	text-align: center;
+	color: #000000;
+	font-family: Tahoma, sans-serif;
+	letter-spacing: 0.02rem;
+	width: calc(100% + 0.05rem);
+	font-size: 0.55em;
+	line-height: 1.5;
+	font-weight: 400;
+	padding: 0.5em;
+}
+
+ul li {
 	text-align: center;
 	color: #000000;
 	font-family: Tahoma, sans-serif;
